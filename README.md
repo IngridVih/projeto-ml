@@ -12,3 +12,7 @@ Este é um projeto simples feito com Python e Streamlit que estima o preço de u
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📺 Créditos 
+Projeto inspirado no tutorial do canal **Daxus | Empowerdata Python** no YouTube — assista ao vídeo aqui: https://www.youtube.com/watch?v=bGwdwF1vlvQ&t=256s
+
