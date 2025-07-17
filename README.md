@@ -1,0 +1,14 @@
+# 🍕 Prevendo o Valor de uma Pizza
+
+Este é um projeto simples feito com Python e Streamlit que estima o preço de uma pizza com base em seu diâmetro utilizando regressão linear.
+
+## 🔧 Tecnologias
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+
+## 🚀 Como rodar
+```bash
+pip install -r requirements.txt
+streamlit run app.py
