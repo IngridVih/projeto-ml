@@ -10,7 +10,7 @@ Este é um projeto simples feito com Python e Streamlit que estima o preço de u
 
 ## 🚀 Como rodar
 ```bash
-git clone https://github.com/seu-usuario/projeto-ml.git
+git clone https://github.com/IngridVih/projeto-ml.git
 cd projeto-ml
 ```
 ```bash
