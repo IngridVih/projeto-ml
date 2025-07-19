@@ -10,8 +10,14 @@ Este é um projeto simples feito com Python e Streamlit que estima o preço de u
 
 ## 🚀 Como rodar
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/seu-usuario/projeto-ml.git
+cd projeto-ml
+```
+```bash
+chmod +x run.sh
+```
+```bash
+./run.sh
 ```
 
 ## 📺 Créditos
