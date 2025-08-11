@@ -20,8 +20,4 @@ chmod +x run.sh
 ./run.sh
 ```
 
-## 📺 Créditos
-
-Projeto inspirado no tutorial do canal Daxus | Empowerdata Python no YouTube
-
 
